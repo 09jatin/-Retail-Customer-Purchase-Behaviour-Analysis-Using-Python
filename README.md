@@ -1,7 +1,7 @@
 # 🛒 Retail Customer Purchase Behaviour Analysis Using Python
 
 ## 📌 Project Overview
-This project analyzes retail transaction and customer purchase behaviour data to uncover customer purchasing patterns, product performance, and sales trends. The analysis focuses on identifying high-value customer segments, popular chip brands, preferred pack sizes, and providing data-driven business recommendations for category management.
+This project analyzes retail transaction and customer purchase behaviour data to uncover customer purchasing patterns, product performance, and sales trends. The analysis focuses on identifying high-value customer segments, popular chip brands, preferred pack sizes, and providing data-driven business recommendations for category management
 
 ---
 
