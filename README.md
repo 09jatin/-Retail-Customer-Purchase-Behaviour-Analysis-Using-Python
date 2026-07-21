@@ -113,18 +113,22 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 ---
 
 ## 📷 Sample Visualizations
+## Customer Segment
 
-- Sales by Customer Segment
-- Sales by Brand
-- Sales by Pack Size
-- Monthly Sales Trend
-- /monthly_sales_trend.png
+![Customer Segment](images/customer_segment.png)
 
-- Top Products
-- Top Customers
-- Correlation Heatmap
+## Brand Analysis
 
----
+![Brand Analysis](images/brand_analysis.png)
+
+## Pack Size Analysis
+
+![Pack Size](images/pack_size.png)
+
+## Sales Trend
+
+![Sales Trend](monthly_sales_trend.png)
+
 
 ## 📬 Contact
 
