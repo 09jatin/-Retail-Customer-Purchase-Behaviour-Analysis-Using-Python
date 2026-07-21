@@ -113,17 +113,18 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 ---
 
 ## 📷 Sample Visualizations
-## Customer Segment
 
-![Customer Segment](images/customer_segment.png)
+## Insights & Recommendation
+
+![Insights](insights.png)
 
 ## Brand Analysis
 
-![Brand Analysis](images/brand_analysis.png)
+![Brand Analysis](brand_analysis.png)
 
 ## Pack Size Analysis
 
-![Pack Size](images/pack_size.png)
+![Pack Size](pack_size.png)
 
 ## Sales Trend
 
