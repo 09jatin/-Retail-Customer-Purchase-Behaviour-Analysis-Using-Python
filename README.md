@@ -90,12 +90,18 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 ## 📁 Repository Structure
 
 ```
-├── Retail_Customer_Purchase_Behaviour_Analysis.ipynb
-├── QVI_transaction_data.csv
-├── QVI_purchase_behaviour.csv
-├── README.md
-```
+├── Data
+     Cleaned_Retail_Customer_Purchase_Behaviour_Analysis.ipynb
+├──  Raw_QVI_transaction_data.csv
+├──  Raw_QVI_purchase_behaviour.csv
+├──  Images
+├──  Brand_Analysis.png
+├──  Insights.png
+├──  Monthly_Sales_trend.png
+├──  Pack_size_analysis.png 
+├──  README.md
 
+```
 ---
 
 ## 🚀 Skills Demonstrated
@@ -120,15 +126,15 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 
 ## Brand Analysis
 
-![Brand Analysis](brand_analysis.png)
+![Brand Analysis](Brand_analysis.png)
 
 ## Pack Size Analysis
 
-![Pack Size](pack_size.png)
+![Pack Size](pack_size_analysis.png)
 
 ## Sales Trend
 
-![Sales Trend](monthly_sales_trend.png)
+![Sales Trend](Monthly_Sales_trend.png)
 
 
 ## 📬 Contact
