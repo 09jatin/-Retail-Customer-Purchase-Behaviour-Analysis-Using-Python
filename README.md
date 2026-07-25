@@ -118,25 +118,25 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 
 
 
-## 📷 Sample Visualizations
+ 📷 Sample Visualizations
 
--- Insights & Recommendation
+Insights & Recommendation
 
-![Insights](Insights.png)
+[Insights](Insights.png)
 
--- Brand Analysis
+Brand Analysis
 
-![Brand Analysis](Brand_analysis.png)
+[Brand Analysis](Brand_analysis.png)
 
--- Pack Size Analysis
+ Pack Size Analysis
 
-![Pack Size](pack_size_analysis.png)
+[Pack Size](pack_size_analysis.png)
 
---  Sales Trend
+Sales Trend
 
-![Sales Trend](Monthly_Sales_trend.png)
+[Sales Trend](Monthly_Sales_trnd.png)
 
---- 
+ 
 ## 📬 Contact
 
 If you found this project useful or have suggestions, feel free to connect with me on LinkedIn or GitHub.
