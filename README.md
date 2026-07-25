@@ -130,7 +130,7 @@ Brand Analysis
 
  Pack Size Analysis
 
-[Pack Size](pack_size_analysis.png)
+[Pack Size](Images./pack_size_analysis.png)
 
 Sales Trend
 
