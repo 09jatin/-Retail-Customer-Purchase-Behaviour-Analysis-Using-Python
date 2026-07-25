@@ -122,7 +122,7 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 
 ## Insights & Recommendation
 
-![Insights](insights.png)
+![Insights](Insights.png)
 
 ## Brand Analysis
 
