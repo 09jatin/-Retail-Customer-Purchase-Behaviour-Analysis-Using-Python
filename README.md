@@ -90,8 +90,8 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 ## 📁 Repository Structure
 
 ```
-├── Data
-     Cleaned_Retail_Customer_Purchase_Behaviour_Analysis.ipynb
+├──  Data
+├──  Cleaned_Retail_Customer_Purchase_Behaviour_Analysis.ipynb
 ├──  Raw_QVI_transaction_data.csv
 ├──  Raw_QVI_purchase_behaviour.csv
 ├──  Images
