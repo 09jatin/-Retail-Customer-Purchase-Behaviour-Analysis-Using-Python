@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes retail transaction and customer purchase behaviour data to uncover customer purchasing patterns, product performance, and sales trends. The analysis focuses on identifying high-value customer segments, popular chip brands, preferred pack sizes, and providing data-driven business recommendations for category management
 
----
+
 
 ## 🎯 Project Objectives
 
@@ -14,7 +14,7 @@ This project analyzes retail transaction and customer purchase behaviour data to
 - Determine the best-selling brands and pack sizes.
 - Generate actionable business insights and strategic recommendations.
 
----
+
 
 ## 📂 Dataset
 
@@ -25,7 +25,7 @@ This project uses two datasets:
 
 The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to analyze customer purchasing behaviour.
 
----
+
 
 ## 🛠️ Tools & Libraries
 
@@ -36,7 +36,7 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 - Seaborn
 - Jupyter Notebook
 
----
+
 
 ## 📊 Project Workflow
 
@@ -51,7 +51,7 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 9. Business Insights
 10. Strategic Recommendations
 
----
+
 
 ## 📈 Key Analyses
 
@@ -64,7 +64,7 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 - Pack Size Analysis
 - Monthly, Quarterly, and Yearly Sales Analysis
 
----
+
 
 ## 💡 Key Insights
 
@@ -75,7 +75,7 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 - 170g was the most popular pack size.
 - Sales peaked during December and Q4, indicating strong seasonal demand.
 
----
+
 
 ## 📌 Business Recommendations
 
@@ -85,24 +85,23 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 - Strengthen loyalty programs to improve customer retention.
 - Increase inventory and promotional activities before peak sales periods.
 
----
+
 
 ## 📁 Repository Structure
 
-```
-├──  Data
+|  ─── Data
 ├──  Cleaned_Retail_Customer_Purchase_Behaviour_Analysis.ipynb
 ├──  Raw_QVI_transaction_data.csv
 ├──  Raw_QVI_purchase_behaviour.csv
-├──  Images
-├──  Brand_Analysis.png
-├──  Insights.png
-├──  Monthly_Sales_trend.png
-├──  Pack_size_analysis.png 
-├──  README.md
+|  ─── Images
+|── Brand_Analysis.png
+|── Insights.png
+|── Monthly_Sales_trend.png
+|── Pack_size_analysis.png 
+| ─── README.md
 
-```
----
+
+
 
 ## 🚀 Skills Demonstrated
 
@@ -116,27 +115,28 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 - Business Recommendations
 - Python Programming
 
----
+
+
 
 ## 📷 Sample Visualizations
 
-## Insights & Recommendation
+-- Insights & Recommendation
 
 ![Insights](Insights.png)
 
-## Brand Analysis
+-- Brand Analysis
 
 ![Brand Analysis](Brand_analysis.png)
 
-## Pack Size Analysis
+-- Pack Size Analysis
 
 ![Pack Size](pack_size_analysis.png)
 
-## Sales Trend
+--  Sales Trend
 
 ![Sales Trend](Monthly_Sales_trend.png)
 
-
+--- 
 ## 📬 Contact
 
 If you found this project useful or have suggestions, feel free to connect with me on LinkedIn or GitHub.
