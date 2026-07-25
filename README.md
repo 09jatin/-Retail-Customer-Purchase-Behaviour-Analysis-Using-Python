@@ -126,17 +126,15 @@ Insights & Recommendation
 
 Brand Analysis
 
-[Brand Analysis](Images.Brand_analysis.png)
+[Brand Analysis](Images./Brand_analysis.png)
 
  Pack Size Analysis
 
 [Pack Size](Images./pack_size_analysis.png)
 
-Sales Trend
-
-[Sales Trend](Monthly_Sales_trnd.png)
 
 Monthly Trend
+
 [Monthly Trend](Images./Monthly_Sales_trend.png)
 
  
