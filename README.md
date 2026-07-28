@@ -1,31 +1,93 @@
-# 🛒 Retail Customer Purchase Behaviour Analysis Using Python
+# 🛍️ Retail Customer Purchase Behavior Analysis
 
-## 📌 Project Overview
-This project analyzes retail transaction and customer purchase behaviour data to uncover customer purchasing patterns, product performance, and sales trends. The analysis focuses on identifying high-value customer segments, popular chip brands, preferred pack sizes, and providing data-driven business recommendations for category management
+### End-to-End Data Analysis Project using Python
+
+> An end-to-end customer purchase behavior analysis project built entirely with Python to clean, analyze, visualize, and uncover actionable insights from retail customer data.
+
+## 📖 Project Overview
+
+This project analyzes retail customer purchasing behavior using Python. The analysis focuses on understanding customer demographics, purchasing patterns, product preferences, spending habits, and business performance through Exploratory Data Analysis (EDA).
+
+The project demonstrates a complete data analysis workflow, from raw dataset exploration to business recommendations using Python libraries.
+
+## 🛠 Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Python | Data Analysis |
+| Pandas | Data Cleaning & Manipulation |
+| NumPy | Numerical Analysis |
+| Matplotlib | Data Visualization |
+| Seaborn | Statistical Visualization |
+| Jupyter Notebook | Development Environment |
+
+## 🔄 Project Workflow
+
+1. Import Dataset
+2. Data Cleaning
+3. Data Preprocessing
+4. Exploratory Data Analysis (EDA)
+5. Customer Behavior Analysis
+6. Data Visualization
+7. Business Insights
+8. Business Recommendations
+
+ ## ⭐ Key Features
+
+- 📊 Performed end-to-end customer purchase behavior analysis using Python.
+- 🧹 Cleaned and preprocessed raw retail data for accurate analysis.
+- 🔍 Conducted Exploratory Data Analysis (EDA) to identify purchasing patterns.
+- 📈 Created insightful visualizations using Matplotlib and Seaborn.
+- 👥 Analyzed customer demographics and buying behavior.
+- 🛒 Explored product preferences and purchasing trends.
+- 💰 Identified spending patterns and customer segments.
+- 📋 Generated actionable business insights to support decision-making.
+- 🚀 Followed a complete data analysis workflow from raw data to business recommendations.
+
+- ## 📊 Analysis Performed
+
+The project includes detailed analysis of:
+
+- Customer Demographics
+- Age Distribution
+- Gender Distribution
+- Product Categories
+- Purchase Amount Distribution
+- Shopping Frequency
+- Seasonal Trends
+- Customer Segmentation
+- Correlation Analysis
+- Spending Behavior
+
+- ## 🐍 Python Skills Demonstrated
+
+Throughout this project, Python was used to perform complete exploratory data analysis and generate business insights.
+
+### Python Concepts Used
+
+- ✅ Data Import
+- ✅ Data Cleaning
+- ✅ Data Preprocessing
+- ✅ Pandas DataFrames
+- ✅ NumPy Operations
+- ✅ Missing Value Handling
+- ✅ Duplicate Detection
+- ✅ Descriptive Statistics
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Data Visualization
+- ✅ Business Insight Generation
 
 
+## ⭐ Key Features
 
-
-## 🎯 Project Objectives
-
-- Clean and preprocess retail transaction data.
-- Perform Exploratory Data Analysis (EDA).
-- Analyze customer purchasing behaviour.
-- Identify high-value customer segments.
-- Determine the best-selling brands and pack sizes.
-- Generate actionable business insights and strategic recommendations.
-
-
-
-## 📂 Dataset
-
-This project uses two datasets:
-
-- **QVI_transaction_data.csv**
-- **QVI_purchase_behaviour.csv**
-
-The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to analyze customer purchasing behaviour.
-
+- 📊 Performed end-to-end retail customer purchase behavior analysis using Python.
+- 🧹 Cleaned and preprocessed customer transaction data.
+- 🔍 Conducted Exploratory Data Analysis (EDA) to identify purchasing patterns.
+- 👥 Analyzed customer segments based on demographics and purchasing behavior.
+- 🏷 Evaluated brand performance and customer preferences.
+- 📦 Identified the most popular product pack sizes.
+- 📈 Analyzed monthly, quarterly, and yearly sales trends.
+- 💡 Generated actionable business insights and strategic recommendations.
 
 
 ## 🛠️ Tools & Libraries
@@ -43,13 +105,13 @@ The datasets were merged using the **LYLTY_CARD_NBR** (Loyalty Card Number) to a
 
 1. Data Loading
 2. Data Cleaning
-3. Data Quality Checks
+3. Data Quality Assessement
 4. Feature Engineering
 5. Exploratory Data Analysis
 6. Customer Segmentation
 7. Brand Analysis
 8. Pack Size Analysis
-9. Business Insights
+9. Business Insights Generation
 10. Strategic Recommendations
 
 
