@@ -15,17 +15,16 @@ This project analyzes retail customer purchasing behavior using Python. The anal
 
 The project demonstrates a complete data analysis workflow, from raw dataset exploration to business recommendations using Python libraries.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| Python | Data Analysis |
-| Pandas | Data Cleaning & Manipulation |
-| NumPy | Numerical Analysis |
-| Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
-| Jupyter Notebook | Development Environment |
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-success?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Processed-blue?style=for-the-badge)
 ## 🔄 Project Workflow
 
 1. Import Dataset
