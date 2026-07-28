@@ -34,15 +34,16 @@ The project demonstrates a complete data analysis workflow, from raw dataset exp
 
  ## ⭐ Key Features
 
-- 📊 Performed end-to-end customer purchase behavior analysis using Python.
-- 🧹 Cleaned and preprocessed raw retail data for accurate analysis.
-- 🔍 Conducted Exploratory Data Analysis (EDA) to identify purchasing patterns.
-- 📈 Created insightful visualizations using Matplotlib and Seaborn.
-- 👥 Analyzed customer demographics and buying behavior.
-- 🛒 Explored product preferences and purchasing trends.
-- 💰 Identified spending patterns and customer segments.
-- 📋 Generated actionable business insights to support decision-making.
-- 🚀 Followed a complete data analysis workflow from raw data to business recommendations.
+- 📊 Performed end-to-end retail customer purchase behavior analysis using Python.
+- 🧹 Cleaned and validated transactional retail data.
+- ⚙️ Applied feature engineering for deeper customer insights.
+- 🔍 Conducted comprehensive Exploratory Data Analysis (EDA).
+- 👥 Identified high-value customer segments based on purchasing behavior.
+- 🏷️ Analyzed brand performance and customer preferences.
+- 📦 Evaluated pack size popularity and purchasing trends.
+- 📈 Analyzed monthly, quarterly, and yearly sales performance.
+- 📊 Created visualizations using Matplotlib and Seaborn.
+- 💡 Generated business insights and strategic recommendations.
 
 - ## 📊 Analysis Performed
 
@@ -59,24 +60,28 @@ The project includes detailed analysis of:
 - Correlation Analysis
 - Spending Behavior
 
-- ## 🐍 Python Skills Demonstrated
+-## 🐍 Python Skills Demonstrated
 
-Throughout this project, Python was used to perform complete exploratory data analysis and generate business insights.
+### Libraries Used
 
-### Python Concepts Used
+- ✅ Pandas
+- ✅ NumPy
+- ✅ Matplotlib
+- ✅ Seaborn
 
-- ✅ Data Import
+### Data Analysis Skills
+
+- ✅ Data Loading
 - ✅ Data Cleaning
-- ✅ Data Preprocessing
-- ✅ Pandas DataFrames
-- ✅ NumPy Operations
-- ✅ Missing Value Handling
-- ✅ Duplicate Detection
-- ✅ Descriptive Statistics
+- ✅ Data Validation
+- ✅ Feature Engineering
 - ✅ Exploratory Data Analysis (EDA)
-- ✅ Data Visualization
+- ✅ Data Aggregation
+- ✅ GroupBy Analysis
+- ✅ Sorting & Filtering
+- ✅ Statistical Analysis
 - ✅ Business Insight Generation
-
+- ✅ Data Visualization
 
 ## ⭐ Key Features
 
@@ -98,6 +103,24 @@ Throughout this project, Python was used to perform complete exploratory data an
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+ ## 📈 Visualizations
+
+- Top Selling Products
+- Top Performing Stores
+- Sales by Day of Week
+- Top Customers
+- Product Quantity Analysis
+- Sales Distribution
+- Sales Outlier Detection (Box Plot)
+- Correlation Heatmap
+- Monthly Sales Trend
+- Quarterly Sales Trend
+- Yearly Sales Trend
+- Sales by Customer Life Stage
+- Sales by Premium Customer Segment
+- Brand Performance
+- Pack Size Analysis
 
 
 
