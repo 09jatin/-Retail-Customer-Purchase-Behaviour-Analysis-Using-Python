@@ -1,4 +1,9 @@
-# 🛍️ Retail Customer Purchase Behavior Analysis
+# 🛍️ Retail Customer Purchase Behavior Analysis Using Python
+
+<p align="center">
+  <img src="Images/dashboard.png" width="900">
+</p>
+
 
 ### End-to-End Data Analysis Project using Python
 
