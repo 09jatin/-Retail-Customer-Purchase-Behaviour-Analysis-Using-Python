@@ -223,9 +223,27 @@ Monthly Trend
 
 [Monthly Trend](Images./Monthly_Sales_trend.png)
 
+## 👨‍💻 Author
+
+**Jatin Patidar**
+
+Aspiring Data Analyst
+
+### Connect with Me
+
+- LinkedIn: *(Your LinkedIn URL)*
+- GitHub: https://github.com/09jatin
+- Email: *(Your Email)*
  
 ## 📬 Contact
 
 If you found this project useful or have suggestions, feel free to connect with me on LinkedIn or GitHub.
 
 ⭐ If you like this project, don't forget to star the repository!
+
+## 🚀 Future Improvements
+
+- Build an interactive dashboard using Power BI.
+- Perform predictive analytics using Machine Learning.
+- Develop customer churn prediction models.
+- Deploy the analysis as an interactive web application.
