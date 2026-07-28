@@ -166,6 +166,18 @@ The project includes detailed analysis of:
 - 170g was the most popular pack size.
 - Sales peaked during December and Q4, indicating strong seasonal demand.
 
+  ## 📈 Results
+
+✔ High-value customer segment identified
+
+✔ Most profitable brand identified
+
+✔ Seasonal demand discovered
+
+✔ Best-selling pack size identified
+
+✔ Customer purchasing behavior analyzed
+
 
 
 ## 📌 Business Recommendations
