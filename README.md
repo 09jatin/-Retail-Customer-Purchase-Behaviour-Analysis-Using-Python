@@ -1,7 +1,7 @@
 # 🛍️ Retail Customer Purchase Behavior Analysis Using Python
 
 <p align="center">
-  <img src="Monthly_Sales_trend.png" width="900">
+  <img src="Images./Monthly_Sales_trend.png" width="900">
 </p>
 
 
