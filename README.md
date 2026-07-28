@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 This project analyzes retail transaction and customer purchase behaviour data to uncover customer purchasing patterns, product performance, and sales trends. The analysis focuses on identifying high-value customer segments, popular chip brands, preferred pack sizes, and providing data-driven business recommendations for category management
-![GitHub last commit](https://img.shields.io/github/last-commit/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI)
-![GitHub repo size](https://img.shields.io/github/repo-size/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI)
-![GitHub stars](https://img.shields.io/github/stars/09jatin/Super-Store-Sales-Dashboard-SQL-Excel-Power-BI?style=social)
+
 
 
 
