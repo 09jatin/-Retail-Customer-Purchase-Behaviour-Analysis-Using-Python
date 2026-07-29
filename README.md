@@ -224,20 +224,20 @@ The project includes detailed analysis of:
 
 Insights & Recommendation
 
-[Insights](images/summary.png)
+![Insights](images/summary.png)
 
 Brand Analysis
 
-[Brand Analysis](images/top_brand_analysis.png)
+![Brand Analysis](images/top_brand_analysis.png)
 
 Pack Size Analysis
 
-[Pack Size](images/pack_size_analysis.png)
+![Pack Size](images/pack_size_analysis.png)
 
 
 Monthly Trend
 
-[Monthly Trend](images/monthly_sales_trend.png)
+![Monthly Trend](images/monthly_sales_trend.png)
 
 ## 👨‍💻 Author
 
