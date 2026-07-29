@@ -222,20 +222,20 @@ The project includes detailed analysis of:
 
  📷 Sample Visualizations
 
-Insights & Recommendation
+##Insights & Recommendation
 
 [Insights](images/summary.png)
 
-Brand Analysis
+##Brand Analysis
 
 [Brand Analysis](images/top_brand_analysis.png)
 
- Pack Size Analysis
+## Pack Size Analysis
 
 [Pack Size](images/pack_size_analysis.png)
 
 
-Monthly Trend
+##Monthly Trend
 
 [Monthly Trend](images/monthly_sales_trend.png)
 
