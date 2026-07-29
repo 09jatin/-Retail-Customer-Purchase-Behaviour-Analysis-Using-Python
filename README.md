@@ -228,7 +228,7 @@ Insights & Recommendation
 
 Brand Analysis
 
-[Brand Analysis](images/brand_analysis.png)
+[Brand Analysis](images/top_brand_analysis.png)
 
  Pack Size Analysis
 
