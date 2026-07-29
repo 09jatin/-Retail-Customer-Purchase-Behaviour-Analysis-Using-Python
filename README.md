@@ -224,20 +224,20 @@ The project includes detailed analysis of:
 
 Insights & Recommendation
 
-[Insights](Images./Insights.png)
+[Insights](images/summary.png)
 
 Brand Analysis
 
-[Brand Analysis](Images./Brand_analysis.png)
+[Brand Analysis](images/brand_analysis.png)
 
  Pack Size Analysis
 
-[Pack Size](Images./pack_size_analysis.png)
+[Pack Size](images/pack_size_analysis.png)
 
 
 Monthly Trend
 
-[Monthly Trend](Images./Monthly_Sales_trend.png)
+[Monthly Trend](images/monthly_sales_trend.png)
 
 ## 👨‍💻 Author
 
@@ -247,9 +247,9 @@ Aspiring Data Analyst
 
 ### Connect with Me
 
-- LinkedIn: *(Your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/jatinpatidar09/
 - GitHub: https://github.com/09jatin
-- Email: *(Your Email)*
+- Email: jatinpatidar606@gmail.com
  
 ## 📬 Contact
 
